@@ -37,7 +37,7 @@ class MyCard extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text(
-                  "Balance",
+                  "Balancgggge",
                   style: TextStyle(
                     color: Colors.white,
                   ),

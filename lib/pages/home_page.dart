@@ -132,7 +132,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                   MyButton(
                     iconPath: "assets/bill.png",
-                    textButton: "Bills",
+                    textButton: "Billsdddd",
                   ),
                 ],
               ),
