@@ -1,29 +1,14 @@
-# README #
+# walletapp
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A Simple Wallet App UI Build With Flutter
 
-### What is this repository for? ###
+![Screenshot 2023-10-26 122407](https://github.com/WilmanTb/wallet-app-UI-with-flutter/assets/148366527/f8c37577-b5f0-458f-b99b-079eb5a40359)
+# Dependencies
+1. Smooth Page Indicator
+2. Curved Navigation Bar
 
-* Quick summary 
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+![ezgif com-video-to-gif (1)](https://github.com/WilmanTb/wallet-app-UI-with-flutter/assets/148366527/d3d2862b-a715-4518-b2c6-26462afccec8)
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
