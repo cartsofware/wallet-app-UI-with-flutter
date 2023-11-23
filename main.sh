@@ -28,6 +28,7 @@ check(){
     flutter analyze
     dart fix --dry-run
     dart fix --apply
+    flutter pub get --no-example
 }
 
 run(){

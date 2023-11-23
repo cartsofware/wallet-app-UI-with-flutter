@@ -21,10 +21,10 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.grey[300],
       body: SafeArea(
-        child: Column(
+        child: ListView(
           //app bar
           children: [
-            const SizedBox(height: 20),
+            const SizedBox(height: 10),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 25.0),
               child: Row(
@@ -109,6 +109,7 @@ class _HomePageState extends State<HomePage> {
 
             SmoothPageIndicator(
               controller: pageController,
+              axisDirection: Axis.horizontal,
               count: 4,
               effect: ExpandingDotsEffect(
                 activeDotColor: Colors.grey.shade800,
@@ -124,7 +125,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   MyButton(
                     iconPath: "assets/sendmoney.png",
-                    textButton: "Send",
+                    textButton: "Sendwww",
                   ),
                   MyButton(
                     iconPath: "assets/card.png",
